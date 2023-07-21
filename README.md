@@ -11,7 +11,7 @@
 
 ## Device picture
 
-![Xiaomi 13](https://t.ctcdn.com.br/FcaDuDgKQbBiqgTfblnEd7BqAaI=/fit-in/400x400/filters:format(webp):fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i551878.png)
+![Xiaomi 13](https://cdn-files.kimovil.com/default/0007/04/thumb_603638_default_big.jpg)
 
 ### Release Notes
 * Orangefox/TWRP now boots, decryption is working fine but aren't tested in GSI.
