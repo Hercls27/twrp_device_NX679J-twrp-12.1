@@ -11,7 +11,7 @@
 
 ## Device picture
 
-![Xiaomi 13](https://cdn-files.kimovil.com/default/0007/04/thumb_603638_default_big.jpg)
+![Xiaomi 13](https://fdn2.gsmarena.com/vv/pics/zte/zte-nubia-red-magic-7-1.jpg)
 
 ### Release Notes
 * Orangefox/TWRP now boots, decryption is working fine but aren't tested in GSI.
